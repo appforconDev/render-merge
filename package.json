@@ -1,0 +1,16 @@
+{
+  "name": "momentli-pdf-merge",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0",
+    "@supabase/supabase-js": "^2.57.2",
+    "pdf-lib": "^1.17.1"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
